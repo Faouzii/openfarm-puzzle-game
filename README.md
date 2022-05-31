@@ -9,6 +9,12 @@
 
 <h3 align="center">
   Leading By Example.
+  ionic build
+  ionic capacitor add android
+ionic capacitor sync
+cd android && ./gradlew assembleDebug && cd ..
+
+
 </h3>
 
 <p align="center">
